@@ -10,6 +10,6 @@ and image is displayed with the help of cv2 package.
 
 
 FUTURE PLAN:
-As of now we can transfer only .jpg image format in future many image formats like .gif,.png,.tiff etc can be transfered.
+As of now we can transfer only .jpg image format in future many image formats like .gif,.png,.tiff etc can be transferred.
 
 
